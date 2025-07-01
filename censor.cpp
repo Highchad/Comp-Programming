@@ -1,7 +1,6 @@
 #include "bits/stdc++.h"
 using namespace std;
 
-// BeginCodeSnip{{USACO-style I/O. See General / Input & Output}}
 void setIO(string name = "") {
 	cin.tie(0)->sync_with_stdio(0);
 	if ((int)name.size()) {
@@ -28,4 +27,5 @@ int main() {
 		}
 	}
 	cout << censored << endl;
+    return 0;
 }
