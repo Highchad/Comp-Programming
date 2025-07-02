@@ -1,0 +1,19 @@
+{
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+    "cSpell.words": [
+        "cbarn",
+        "nonelow",
+        "offhl",
+        "offlh",
+        "offlow",
+        "onhigh",
+        "onhl",
+        "onlh",
+        "onlow"
+    ],
+    "files.associations": {
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp"
+    }
+}
