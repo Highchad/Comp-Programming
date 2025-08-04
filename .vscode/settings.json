@@ -1,7 +1,9 @@
 {
-    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
     "cSpell.words": [
+        "backforth",
         "cbarn",
+        "cowqueue",
         "nonelow",
         "offhl",
         "offlh",
@@ -9,11 +11,14 @@
         "onhigh",
         "onhl",
         "onlh",
-        "onlow"
+        "onlow",
+        "shiaust"
     ],
     "files.associations": {
         "deque": "cpp",
         "string": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
     }
 }
